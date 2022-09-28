@@ -4,11 +4,13 @@ Me trying something new
 
 - 👋 Hi, I’m @piggy2303
 - 🌱 Working as Cloud Engineer in SAMSUNG SDS
-- 📫 My linkedln https://www.linkedin.com/in/nguyen-tuan-anh-579695176/
+- 📫 Contact with me https://www.linkedin.com/in/nguyen-tuan-anh-579695176/ 
+- 
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-	![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
   
+[![piggy's GitHub stats](https://github-readme-stats.vercel.app/api?username=piggy2303)](https://github.com/anuraghazra/github-readme-stats)
   
 <!---
 <a href="https://github.com/badges/shields/graphs/contributors" alt="Contributors">
