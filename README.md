@@ -1,3 +1,7 @@
+Me trying something new
+
+![Ice bear](https://c.tenor.com/T2wiDt-NmI4AAAAC/ice-bear-we-bare-bear.gif)
+
 - 👋 Hi, I’m @piggy2303
 - 🌱 Working as Cloud Engineer in SAMSUNG SDS
 - 📫 My linkedln https://www.linkedin.com/in/nguyen-tuan-anh-579695176/
