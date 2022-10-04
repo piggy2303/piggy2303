@@ -1,4 +1,4 @@
-Me trying something new
+Me trying something new.
 
 ![Ice bear](https://c.tenor.com/T2wiDt-NmI4AAAAC/ice-bear-we-bare-bear.gif)
 
