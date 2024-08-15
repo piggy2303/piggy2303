@@ -14,6 +14,5 @@ Me trying something new.
   
 [![piggy's GitHub stats](https://github-readme-stats.vercel.app/api?username=piggy2303)](https://github.com/anuraghazra/github-readme-stats)
 
-[![piggy's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=piggy2303&show_icons=true&locale=en&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs?username=piggy2303&show_icons=true&locale=en&layout=compact)
 
 [![piggy's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=piggy2303&)](https://github-readme-streak-stats.herokuapp.com/?user=piggy2303&)
